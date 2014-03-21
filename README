@@ -1,0 +1,7 @@
+LSM
+===
+
+This repository contains implementation of persistent set and map data structures implemented
+in LSM manner.
+
+I believe LSM approach would allow to create structures with greater sharing than Data.Map and Data.Set.

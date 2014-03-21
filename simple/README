@@ -1,0 +1,4 @@
+Simple implementation of sets and maps as LSM trees
+===================================================
+
+Very naive and simple implementation of maps and sets as LSM trees.
